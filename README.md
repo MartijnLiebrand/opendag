@@ -2,7 +2,7 @@ Todo:
 
 - Ga naar: http://notebooks.azure.com/
 - Login met HAN Account
-- Ga naar my projects
+- Ga naar MyProjects
 - Ga naar Upload GitHub Repo
 - Copy paste URL (https://github.com/MartijnLiebrand/opendag/)
 - Geef Project ID (bv OpenDag)
@@ -17,3 +17,9 @@ Aanvulling:
   - Restart & Clear Output
 
 - Als code compleet is vernield, opnieuw importeren.
+
+Afsluiten:
+
+- Ga naar MyProjects
+- Selecteer OpenDag
+- Shutdown
