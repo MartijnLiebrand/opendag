@@ -2,12 +2,12 @@ Todo:
 
 - Ga naar: http://notebooks.azure.com/
 - Login met HAN Account
-- Ga naar MyProjects
-- Ga naar Upload GitHub Repo
+- Ga naar: MyProjects
+- Ga naar: Upload GitHub Repo
 - Copy paste URL (https://github.com/MartijnLiebrand/opendag/)
 - Geef Project ID (bv OpenDag)
 - Import
-- Klik op opendag.ipynb
+- Klik op: opendag.ipynb
 
 Aanvulling:
 
@@ -15,11 +15,10 @@ Aanvulling:
 - Herstart: 
   - Ga naar Kernel
   - Restart & Clear Output
-
 - Als code compleet is vernield, opnieuw importeren.
 
 Afsluiten:
 
-- Ga naar MyProjects
-- Selecteer OpenDag
-- Shutdown
+- Ga naar: MyProjects
+- Selecteer: OpenDag
+- Klik: Shutdown
